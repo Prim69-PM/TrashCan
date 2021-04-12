@@ -1,0 +1,13 @@
+#Aliases are other names for the command /trash.
+#For example, aliases: [ot, tr].
+#When you do /ot the trash will open. For no aliases, leave it empty as shown.
+aliases: []
+
+#Message type can either be "message" or "tip", if you put nothing it will default to "message".
+#If it is a tip the message below will be displayed above the users hotbar.
+#If it is a message it will get sent as a normal message.
+message-type: tip
+message: "§7[§c!§7] §eOpening trash can!"
+
+#The name that appears at the top of the trash chest menu
+trash-name: "§l§6Trash Can!"

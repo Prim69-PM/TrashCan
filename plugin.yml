@@ -1,0 +1,7 @@
+name: Trash
+author: xPrim69x
+description: Trash can plugin by Prim!
+website: https://www.github.com/Prim69
+version: 1.0.0
+main: xPrim69x\Trash\Main
+api: 3.0.0
